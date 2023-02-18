@@ -1,0 +1,18 @@
+cd 
+cd desktop
+mkdir + folder name -> to be in wokong directory
+git clone + clone link from github Repo
+dir 
+cd + Repo name 
+dir 
+git status
+git add + folder or file name 
+* git reset HEAD + file or folder name -> to remove from stage
+git commit -m " "
+*git congif --global user.email"" 
+*dit configg--global user.name""  -> InCase error (Auther identity unKnown, please tell who are you)
+
+
+git push + repo name + branch name -> to pushh items to github
+*git branch -> to show the branch name 
+*git remote -v -> to show remote name
